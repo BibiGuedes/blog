@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "A simple blog",
+  "scripts": {},
+  "author": {
+    "name": "Yasmim Marques Guedes",
+    "email": "yasmimarquesguedes15@gmail.com",
+    "url": "https://github.com/BibiGuedes/blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@somosprte/eslint-config": "^1.8.0"
+  },
+  "eslintConfig": {}
+}
